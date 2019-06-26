@@ -1,4 +1,18 @@
 # Lab 0: Let's set up your AWS DeepRacer service and get you off to the races!
+The resources are allready created. Use the time to login to your Account.
+
+Use the provided Login credentials to login to your Workshop-Account. Login URL´s are
+
+- https://oc-deepracer-1.signin.aws.amazon.com/console
+- https://oc-deepracer-2.signin.aws.amazon.com/console
+- https://oc-deepracer-3.signin.aws.amazon.com/console
+- https://oc-deepracer-4.signin.aws.amazon.com/console
+- https://oc-deepracer-5.signin.aws.amazon.com/console
+- https://oc-deepracer-6.signin.aws.amazon.com/console
+- https://oc-deepracer-7.signin.aws.amazon.com/console
+- https://oc-deepracer-8.signin.aws.amazon.com/console
+- https://oc-deepracer-9.signin.aws.amazon.com/console
+- https://oc-deepracer-10.signin.aws.amazon.com/console
 
 
 # Overview
